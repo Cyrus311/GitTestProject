@@ -10,7 +10,7 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mustaf Gardaş");
+            Console.WriteLine("Can GARDAŞ");
             Console.ReadKey();
         }
     }
