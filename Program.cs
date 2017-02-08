@@ -12,6 +12,7 @@ namespace GitTestProject
         {
             Console.WriteLine("Can GARDAŞ");
             Console.WriteLine("Mustaf GARDAŞ");
+            System.Console.WriteLine("GARDAŞ");
             Console.ReadKey();
         }
     }
